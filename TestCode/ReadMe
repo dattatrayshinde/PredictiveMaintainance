@@ -1,0 +1,15 @@
+~/PredictiveMaintainance/TestCode/
+==================================
+This file will provide details about the "testCode" Folder
+
+1. SparkHadoopTest.scala
+------------------------
+Use this file after installation of the Hadoop and spark to check that both are working on the system.
+
+2. MongoTest.py
+------------------------
+Use this file to check the mongoDB connection with the spark.
+
+3. test.txt
+------------------------
+I used this text file on hadoop and read inside spark.
