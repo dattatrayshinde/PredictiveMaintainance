@@ -1,0 +1,2 @@
+https://www.voltdb.com/blog/simplifying-complex-lambda-architecture
+http://milinda.pathirage.org/kappa-architecture.com/

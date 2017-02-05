@@ -1,0 +1,4 @@
+~/PredictiveMaintainance/Lambda Architecture:
+=============================================
+This folder have all the articles that I have refered and studied for lambada architecture. Nowdays Lambda architecture have been evolved to kappa and hybrid architectures also be in use. With apache spark one can do batch processing and real time /speed processing easily altogether.
+But having knowledge of the lambda clears lots of the queries regarding why we have evolved to these new architectures. 
